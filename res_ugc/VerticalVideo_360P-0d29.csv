@@ -1,0 +1,2 @@
+configurationID,cabac,ref,deblock,analyse,me,subme,mixed_ref,me_range,trellis,8x8dct,fast_pskip,chroma_qp_offset,bframes,b_pyramid,b_adapt,direct,weightb,open_gop,weightp,scenecut,rc_lookahead,mbtree,qpmax,aq-mode,size,usertime,systemtime,elapsedtime,cpu,frames,fps,kbs,ssim,ssimdb
+1,0,1,0:0:0,0:0,dia,0,0,16,0,0,1,0,0,None,None,None,None,None,0,0,None,0,69,0,1913681,1.68, 0.23, 0:00.36, 527, 478 , 2024.67 , 845.22
